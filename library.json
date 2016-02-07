@@ -1,0 +1,15 @@
+{
+  "name": "Timezone",
+  "frameworks": "Arduino",
+  "keywords": "Time, date, hour, minute, second, day, week, month, year, RTC",
+  "description": "Timezone handling library",
+  "url": "https://github.com/schizobovine/Timezone",
+  "authors": [
+    { "name": "Jack Christensen" },
+    { "name": "Sean Caulfield" }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/schizobovine/Timezone"
+  }
+}
